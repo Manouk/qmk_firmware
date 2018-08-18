@@ -49,9 +49,12 @@
 #ifdef RGB_DI_PIN
 #define RGBLIGHT_ANIMATIONS
 #define RGBLED_NUM 6
-#define RGBLIGHT_HUE_STEP 8
+#define RGBLIGHT_HUE_STEP 12
 #define RGBLIGHT_SAT_STEP 8
 #define RGBLIGHT_VAL_STEP 8
+#define RGBLIGHT_SLEEP
 #endif
+
+#define TAPPING_TOGGLE 2
 
 #endif
