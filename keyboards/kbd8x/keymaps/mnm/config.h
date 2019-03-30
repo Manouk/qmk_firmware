@@ -20,7 +20,7 @@
 #include "../../config.h"
 
 // place overrides here
-#define TAPPING_TERM 180
+#define TAPPING_TERM 175
 #define PERMISSIVE_HOLD
 #define IGNORE_MOD_TAP_INTERRUPT
 
