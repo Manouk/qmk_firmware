@@ -25,7 +25,7 @@ quantum/version.h
 CMakeLists.txt
 cmake-build-debug
 doxygen/
-.DS_STORE
+.DS_Store
 .projectile
 /util/FlipInstaller.exe
 /util/dfu-programmer/
@@ -60,6 +60,7 @@ util/Win_Check_Output.txt
 .vscode/tasks.json
 .vscode/last.sql
 .vscode/temp.sql
+.vscode/ipch/
 .stfolder
 .tags
 
@@ -75,3 +76,6 @@ util/Win_Check_Output.txt
 secrets.tar
 id_rsa_*
 /.vs
+
+# python things
+__pycache__
