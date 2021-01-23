@@ -18,7 +18,7 @@
 // Helpful defines
 #define _______  KC_TRNS
 #define CTL_X    MT(MOD_LCTL, KC_X)
-#define CTL_DOT  MT(MOD_RCTL, KC_DOT)
+#define CTL_DOT  MT(MOD_LCTL, KC_DOT)
 #define ALT_Z    MT(MOD_LALT, KC_Z)
 #define ALT_SLSH MT(MOD_LALT, KC_SLSH)
 
